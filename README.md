@@ -21,6 +21,8 @@ https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
 
 ## Rotas da API
 
+[**Collection do Postman**](https://raw.githubusercontent.com/luccaalison/tiviaAPI/main/apiPlanoSaude.postman_collection.json?raw=true)
+
 A API possui as seguintes rotas:
 
 ### Beneficiários
