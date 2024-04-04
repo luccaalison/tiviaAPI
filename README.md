@@ -61,3 +61,7 @@ A API possui as seguintes rotas:
 - **PUT /documentos/{id}**: Atualiza os detalhes de um documento existente com o ID fornecido. Corpo da requisição similar ao de criação.
 
 - **DELETE /documentos/{id}**: Exclui um documento existente com o ID fornecido.
+
+- ##Observações
+Certifique-se de passar os valores corretos no corpo da requisição ao criar ou atualizar um beneficiário ou documento.
+Ao criar um documento, o beneficiarioId deve corresponder ao ID de um beneficiário existente na base de dados.
