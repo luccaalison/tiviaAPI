@@ -1,0 +1,10 @@
+com\example\model\Documento.class
+com\example\service\BeneficiarioService.class
+com\example\repository\DocumentoRepository.class
+com\example\config\SQLiteInitializer.class
+com\example\App.class
+com\example\service\DocumentoService.class
+com\example\model\Beneficiario.class
+com\example\repository\BeneficiarioRepository.class
+com\example\controller\DocumentoController.class
+com\example\controller\BeneficiarioController.class
