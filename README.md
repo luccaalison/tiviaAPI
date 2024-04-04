@@ -7,16 +7,17 @@ Este documento fornece instruções sobre como configurar, executar e usar a API
 Para executar a aplicação, siga as etapas abaixo:
 
 1. Certifique-se de ter o **Maven** instalado em seu sistema. Caso contrário, instale-o a partir deste link para instalação do Maven.
+https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
 
-2. Navegue até o diretório do projeto em seu terminal.
+3. Navegue até o diretório do projeto em seu terminal.
 
-3. Execute o seguinte comando para iniciar a aplicação Spring Boot:
+4. Execute o seguinte comando para iniciar a aplicação Spring Boot:
 
     ```bash
     mvn spring-boot:run
     ```
 
-4. Após a inicialização bem-sucedida, a API estará disponível em http://localhost:8080.
+5. Após a inicialização bem-sucedida, a API estará disponível em http://localhost:8080.
 
 ## Rotas da API
 
@@ -62,6 +63,7 @@ A API possui as seguintes rotas:
 
 - **DELETE /documentos/{id}**: Exclui um documento existente com o ID fornecido.
 
-- ##Observações
+## Observações
+
 Certifique-se de passar os valores corretos no corpo da requisição ao criar ou atualizar um beneficiário ou documento.
 Ao criar um documento, o beneficiarioId deve corresponder ao ID de um beneficiário existente na base de dados.
