@@ -6,8 +6,7 @@ Este documento fornece instruções sobre como configurar, executar e usar a API
 
 Para executar a aplicação, siga as etapas abaixo:
 
-1. Certifique-se de ter o **Maven** instalado em seu sistema. Caso contrário, instale-o a partir deste link para instalação do Maven.
-https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
+1. Certifique-se de ter o **Maven** e o **JDK** instalado em seu sistema. Caso contrário, instale-o a partir deste link para instalação(Windows) do [**Maven**](https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip), [**JDK**](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe).
 
 3. Navegue até o diretório do projeto em seu terminal.
 
